@@ -1,0 +1,37 @@
+C:\Users\Emil\AppData\Local\Temporary Projects\AutoClicker\obj\x86\Debug\AutoClicker.Form1.resources
+C:\Users\Emil\AppData\Local\Temporary Projects\AutoClicker\obj\x86\Debug\AutoClicker.Properties.Resources.resources
+C:\Users\Emil\AppData\Local\Temporary Projects\AutoClicker\obj\x86\Debug\AutoClicker.csproj.GenerateResource.Cache
+C:\Users\Emil\documents\visual studio 2010\Projects\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe
+C:\Users\Emil\documents\visual studio 2010\Projects\AutoClicker\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\Users\Emil\documents\visual studio 2010\Projects\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.Properties.Resources.resources
+C:\Users\Emil\documents\visual studio 2010\Projects\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.csproj.GenerateResource.Cache
+C:\Users\Emil\documents\visual studio 2010\Projects\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.exe
+C:\Users\Emil\documents\visual studio 2010\Projects\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.pdb
+C:\Users\Emil\documents\visual studio 2010\Projects\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe.config
+C:\Users\Emil\documents\visual studio 2010\Projects\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.AutoClicker.resources
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe.config
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.exe
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.pdb
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.AutoClicker.resources
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.Properties.Resources.resources
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.csproj.GenerateResource.Cache
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe.manifest
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\bin\Debug\AutoClicker.application
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.exe.manifest
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.application
+C:\Users\Emil\Desktop\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe.config
+C:\Users\Emil\Desktop\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.exe
+C:\Users\Emil\Desktop\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.pdb
+C:\Users\Emil\Desktop\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe.manifest
+C:\Users\Emil\Desktop\AutoClicker\AutoClicker\bin\Debug\AutoClicker.application
+C:\Users\Emil\Desktop\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe
+C:\Users\Emil\Desktop\AutoClicker\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\Users\Emil\Desktop\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Desktop\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.AutoClicker.resources
+C:\Users\Emil\Desktop\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.Properties.Resources.resources
+C:\Users\Emil\Desktop\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.csproj.GenerateResource.Cache
+C:\Users\Emil\Desktop\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.exe.manifest
+C:\Users\Emil\Desktop\AutoClicker\AutoClicker\obj\x86\Debug\AutoClicker.application

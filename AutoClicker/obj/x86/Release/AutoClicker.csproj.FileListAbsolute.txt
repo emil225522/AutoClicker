@@ -1,0 +1,12 @@
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.config
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.manifest
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\bin\Release\AutoClicker.application
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\bin\Release\AutoClicker.pdb
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\obj\x86\Release\AutoClicker.AutoClicker.resources
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\obj\x86\Release\AutoClicker.Properties.Resources.resources
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\obj\x86\Release\AutoClicker.csproj.GenerateResource.Cache
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\obj\x86\Release\AutoClicker.exe.manifest
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\obj\x86\Release\AutoClicker.application
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\obj\x86\Release\AutoClicker.exe
+C:\Users\Emil\Google Drive\AutoClicker\AutoClicker\obj\x86\Release\AutoClicker.pdb
